@@ -1,4 +1,4 @@
-# Two people Voice-Conversion
+# Two people Voice Conversion with interpolation 
 This work is revised from [here](https://github.com/BogiHsu/Voice-Conversion) to allow interpolation.
 
 ## No interpolation version
